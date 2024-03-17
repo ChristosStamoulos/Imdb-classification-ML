@@ -1,7 +1,7 @@
 # Sentiment Analysis on IMDb Movie Reviews
 
 This repository hosts a sentiment analysis project performed on IMDb movie reviews using machine learning algorithms. 
-This project was prepared within the framework of the Artificial Intelligence course taught in the 5th semester of Informatics at AUEB.
+This project was carried out in the course "Artificial Intelligence", which is a required core course of the 3rd year of the Department of Computer Science in AUEB.
 
 The datased used is the [IMDb movie review sentiment classification dataset](https://keras.io/api/datasets/imdb/). 
 It consists of 25,000 movies reviews from IMDb, labeled by sentiment (positive/negative).
